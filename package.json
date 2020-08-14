@@ -24,6 +24,7 @@
         "vue-template-compiler": "^2.6.11"
     },
     "dependencies": {
+        "serialize-javascript": "^4.0.0",
         "webpack": "^4.41.5"
     }
 }
